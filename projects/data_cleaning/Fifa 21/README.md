@@ -1,7 +1,7 @@
 # FIFA 21 Data Cleaning Project
 
 ## Project Overview
-This project showcases my data cleaning skills using a raw dataset from the FIFA 21 video game, originally scraped from sofifa.com. The dataset includes various information about players, including their physical attributes, wages, transfer values, and career details. The dataset is intentionally messy, providing an ideal opportunity to demonstrate data wrangling and cleaning techniques.
+This project showcases my data cleaning skills using a raw dataset from the FIFA 21 video game. The dataset, from kaggle (https://www.kaggle.com/datasets/yagunnersya/fifa-21-messy-raw-dataset-for-cleaning-exploring), includes various information about players, including their physical attributes, wages, transfer values, and career details. The dataset is intentionally messy, providing an ideal opportunity to demonstrate data wrangling and cleaning techniques.
 
 ## Dataset
 The FIFA 21 dataset contains numerous columns with information on each player's:
