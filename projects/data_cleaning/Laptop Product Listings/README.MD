@@ -1,7 +1,7 @@
 # Laptop Price Data Cleaning and Analysis
 
 ## Project Overview
-This project focuses on the comprehensive cleaning and analysis of a laptop dataset. The goal is to transform raw data into a structured, consistent format ready for in-depth analysis and visualization. This project demonstrates various data cleaning techniques, feature engineering, and data visualizations to extract valuable insights from the dataset.
+This project focuses on the comprehensive cleaning and analysis of a laptop dataset. The goal is to transform raw data into a structured, consistent format ready for in-depth analysis and visualization.
 
 ## Dataset
 The dataset includes specifications and prices of laptops, with features such as:
@@ -49,8 +49,6 @@ The dataset is used to generate several insightful visualizations to explore pat
 3. **Operating System Popularity by Brand**: Illustrates the distribution of operating systems among laptop brands.
 4. **Laptop Weight Distribution by Type**: Displays the weight variation among different laptop types (e.g., Ultrabook, Gaming).
 
-## Usage
-This project is intended as a showcase of data cleaning, feature engineering, and exploratory data analysis skills. The cleaned and processed dataset is now ready for further analysis, visualization, and machine learning applications. This repository provides a strong foundation for anyone interested in data cleaning techniques and preparing data for deeper insights and predictive modeling.
 
 ## Requirements
 - **Python 3.6+**
