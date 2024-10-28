@@ -46,9 +46,8 @@ The dataset is used to generate several insightful visualizations to explore pat
 
 1. **Price Distribution by Brand**: Highlights the average and range of prices by laptop brand.
 2. **Storage Type vs. Price**: Shows how different storage types (e.g., SSD, HDD) influence laptop prices.
-3. **Screen Quality (PPI) vs. Price**: Examines the relationship between screen quality (Pixels Per Inch) and price.
-4. **Operating System Popularity by Brand**: Illustrates the distribution of operating systems among laptop brands.
-5. **Laptop Weight Distribution by Type**: Displays the weight variation among different laptop types (e.g., Ultrabook, Gaming).
+3. **Operating System Popularity by Brand**: Illustrates the distribution of operating systems among laptop brands.
+4. **Laptop Weight Distribution by Type**: Displays the weight variation among different laptop types (e.g., Ultrabook, Gaming).
 
 ## Usage
 This project is intended as a showcase of data cleaning, feature engineering, and exploratory data analysis skills. The cleaned and processed dataset is now ready for further analysis, visualization, and machine learning applications. This repository provides a strong foundation for anyone interested in data cleaning techniques and preparing data for deeper insights and predictive modeling.
