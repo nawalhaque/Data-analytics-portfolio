@@ -1,0 +1,13 @@
+"parental_level_of_education","test_preparation_course","avg_math_score","avg_reading_score","avg_writing_score"
+bachelor's degree,0,66.9028,70.6111,69.9861
+some college,1,71.4545,75.9870,76.5195
+master's degree,0,69.3077,73.8974,73.4103
+associate's degree,0,65.5714,67.8571,65.8429
+some college,0,64.8926,66.0872,64.8725
+high school,1,65.0000,67.8393,68.0536
+high school,0,60.9929,63.4500,60.2071
+some high school,0,61.0784,63.9118,60.7549
+master's degree,1,70.6000,78.2500,80.1000
+bachelor's degree,1,73.2826,76.7391,78.6957
+associate's degree,1,71.8293,76.1707,76.8171
+some high school,1,66.7013,70.9481,70.3636

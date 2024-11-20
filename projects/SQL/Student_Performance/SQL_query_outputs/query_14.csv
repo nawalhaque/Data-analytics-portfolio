@@ -1,0 +1,6 @@
+"gender","race_ethnicity","parental_level_of_education","lunch","test_preparation_course","math_score","reading_score","writing_score","total_score","average_score","avg_score"
+0,group E,bachelor's degree,1,0,100,100,100,300,100.0,100.0000
+0,group E,associate's degree,1,0,100,100,100,300,100.0,100.0000
+1,group E,bachelor's degree,1,1,100,100,100,300,100.0,100.0000
+0,group E,bachelor's degree,1,1,99,100,100,299,99.66666666666667,99.6667
+0,group D,some high school,1,1,97,100,100,297,99.0,99.0000

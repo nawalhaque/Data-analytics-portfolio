@@ -1,0 +1,24 @@
+"gender","race_ethnicity","parental_level_of_education","lunch","test_preparation_course","math_score","reading_score","writing_score","total_score","average_score"
+0,group E,bachelor's degree,1,1,99,100,100,299,99.66666666666667
+1,group E,associate's degree,0,1,100,100,93,293,97.66666666666667
+0,group C,bachelor's degree,1,1,96,100,100,296,98.66666666666667
+0,group D,some high school,1,1,97,100,100,297,99.0
+0,group E,some college,1,0,100,92,97,289,96.33333333333333
+0,group E,bachelor's degree,1,0,100,100,100,300,100.0
+0,group A,some high school,1,1,92,100,97,289,96.33333333333333
+0,group E,bachelor's degree,0,1,92,100,100,292,97.33333333333333
+1,group A,bachelor's degree,1,0,91,96,92,279,93.0
+0,group C,bachelor's degree,1,1,92,100,99,291,97.0
+1,group D,some college,1,1,100,97,99,296,98.66666666666667
+0,group E,master's degree,1,1,94,99,100,293,97.66666666666667
+0,group D,some college,1,0,98,100,99,297,99.0
+0,group C,associate's degree,1,1,96,96,99,291,97.0
+0,group B,bachelor's degree,1,0,97,97,96,290,96.66666666666667
+1,group C,associate's degree,1,0,97,93,91,281,93.66666666666667
+0,group E,associate's degree,1,1,93,100,95,288,96.0
+0,group D,bachelor's degree,0,1,93,100,100,293,97.66666666666667
+1,group E,bachelor's degree,1,1,100,100,100,300,100.0
+1,group B,some college,1,1,91,96,91,278,92.66666666666667
+0,group D,master's degree,1,0,92,100,100,292,97.33333333333333
+0,group E,associate's degree,1,0,100,100,100,300,100.0
+0,group C,associate's degree,1,0,91,95,94,280,93.33333333333333
