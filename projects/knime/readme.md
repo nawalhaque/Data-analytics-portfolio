@@ -6,7 +6,7 @@
 This project explores the potential to predict mineral deposits based on geochemical analysis of soil samples taken at various depths. By applying different solvents to the soil samples, the project measures the concentrations of various elements, aiming to infer the presence of deeper mineral deposits from surface soil chemistry.
 
 ## Dataset Description
-The dataset consists of 215 samples detailed across 238 columns:
+The dataset (golddatset.csv) consists of 215 samples detailed across 238 columns:
 - **Depth (Dpth)**: Indicates the depth at which each sample was taken.
 - **Element Concentrations**: Columns for each of the five solvents (ENZ, AAS, AA7, AQR, GDX) that detail the concentrations of elements extracted by these solvents.
 - **Target Variable (Mineral Deposit)**: A binary indicator determined by whether the sample's location falls within a specific range indicative of a mineral deposit (186.2 to 214.6 meters).
