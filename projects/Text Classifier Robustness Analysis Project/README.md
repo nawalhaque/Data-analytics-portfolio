@@ -9,7 +9,7 @@ This project investigates the robustness and transfer learning capabilities of t
 
 The dataset, 20Newsgroup, consists of approximately 20,000 documents, evenly distributed across 20 different newsgroups. For this project, a subset comprising four distinct categories was selected to optimize computational resources and reduce semantic overlap.
 
-- **Source:** [20Newsgroups Dataset](http://qwone.com/~jason/20Newsgroups/)
+- **Source:** [20Newsgroups Dataset](http://qwone.com/~jason/20Newsgroups/) Specifically "20news-bydate.tar.gz" 
 
 ## Prerequisites
 
