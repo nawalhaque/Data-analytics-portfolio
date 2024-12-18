@@ -1,6 +1,3 @@
-Here's a draft for a README file that describes the details of Task 1 for your project:
-
----
 
 # Task 1: Graph Analysis of arXiv Citation Network
 
