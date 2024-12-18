@@ -1,5 +1,5 @@
 
-# Task 1: Graph Analysis of arXiv Citation Network
+# Graph Analysis of arXiv Citation Network
 
 ## Objective
 This task aims to use the citation graph (or a selected subgraph) between arXiv papers to investigate the structure and relationships within the dataset. The analysis focuses on identifying key articles, exploring community structures, and describing network characteristics.
